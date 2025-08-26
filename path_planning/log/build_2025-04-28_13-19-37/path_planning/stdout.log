@@ -1,0 +1,40 @@
+running egg_info
+creating build/path_planning/path_planning.egg-info
+writing build/path_planning/path_planning.egg-info/PKG-INFO
+writing dependency_links to build/path_planning/path_planning.egg-info/dependency_links.txt
+writing entry points to build/path_planning/path_planning.egg-info/entry_points.txt
+writing requirements to build/path_planning/path_planning.egg-info/requires.txt
+writing top-level names to build/path_planning/path_planning.egg-info/top_level.txt
+writing manifest file 'build/path_planning/path_planning.egg-info/SOURCES.txt'
+reading manifest file 'build/path_planning/path_planning.egg-info/SOURCES.txt'
+adding license file 'LICENSE'
+writing manifest file 'build/path_planning/path_planning.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/kermit/oscar_ws/src/path_planning/build/path_planning/build
+creating /home/kermit/oscar_ws/src/path_planning/build/path_planning/build/lib
+creating /home/kermit/oscar_ws/src/path_planning/build/path_planning/build/lib/path_planning
+copying path_planning/path_planning_node.py -> /home/kermit/oscar_ws/src/path_planning/build/path_planning/build/lib/path_planning
+copying path_planning/__init__.py -> /home/kermit/oscar_ws/src/path_planning/build/path_planning/build/lib/path_planning
+copying path_planning/control_node.py -> /home/kermit/oscar_ws/src/path_planning/build/path_planning/build/lib/path_planning
+running install
+running install_lib
+creating /home/kermit/oscar_ws/src/path_planning/install/path_planning/lib/python3.10/site-packages/path_planning
+copying /home/kermit/oscar_ws/src/path_planning/build/path_planning/build/lib/path_planning/path_planning_node.py -> /home/kermit/oscar_ws/src/path_planning/install/path_planning/lib/python3.10/site-packages/path_planning
+copying /home/kermit/oscar_ws/src/path_planning/build/path_planning/build/lib/path_planning/__init__.py -> /home/kermit/oscar_ws/src/path_planning/install/path_planning/lib/python3.10/site-packages/path_planning
+copying /home/kermit/oscar_ws/src/path_planning/build/path_planning/build/lib/path_planning/control_node.py -> /home/kermit/oscar_ws/src/path_planning/install/path_planning/lib/python3.10/site-packages/path_planning
+byte-compiling /home/kermit/oscar_ws/src/path_planning/install/path_planning/lib/python3.10/site-packages/path_planning/path_planning_node.py to path_planning_node.cpython-310.pyc
+byte-compiling /home/kermit/oscar_ws/src/path_planning/install/path_planning/lib/python3.10/site-packages/path_planning/__init__.py to __init__.cpython-310.pyc
+byte-compiling /home/kermit/oscar_ws/src/path_planning/install/path_planning/lib/python3.10/site-packages/path_planning/control_node.py to control_node.cpython-310.pyc
+running install_data
+creating /home/kermit/oscar_ws/src/path_planning/install/path_planning/share/ament_index
+creating /home/kermit/oscar_ws/src/path_planning/install/path_planning/share/ament_index/resource_index
+creating /home/kermit/oscar_ws/src/path_planning/install/path_planning/share/ament_index/resource_index/packages
+copying resource/path_planning -> /home/kermit/oscar_ws/src/path_planning/install/path_planning/share/ament_index/resource_index/packages
+copying package.xml -> /home/kermit/oscar_ws/src/path_planning/install/path_planning/share/path_planning
+running install_egg_info
+Copying build/path_planning/path_planning.egg-info to /home/kermit/oscar_ws/src/path_planning/install/path_planning/lib/python3.10/site-packages/path_planning-0.0.0-py3.10.egg-info
+running install_scripts
+Installing control_node script to /home/kermit/oscar_ws/src/path_planning/install/path_planning/lib/path_planning
+Installing path_planning_node script to /home/kermit/oscar_ws/src/path_planning/install/path_planning/lib/path_planning
+writing list of installed files to '/home/kermit/oscar_ws/src/path_planning/build/path_planning/install.log'

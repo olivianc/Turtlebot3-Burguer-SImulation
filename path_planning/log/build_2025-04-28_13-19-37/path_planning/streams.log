@@ -1,0 +1,42 @@
+[0.679s] Invoking command in '/home/kermit/oscar_ws/src/path_planning': PYTHONPATH=/home/kermit/oscar_ws/src/path_planning/build/path_planning/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/kermit/oscar_ws/src/path_planning/install/path_planning/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base build/path_planning build --build-base /home/kermit/oscar_ws/src/path_planning/build/path_planning/build install --record /home/kermit/oscar_ws/src/path_planning/build/path_planning/install.log --single-version-externally-managed install_data
+[0.931s] running egg_info
+[0.931s] creating build/path_planning/path_planning.egg-info
+[0.932s] writing build/path_planning/path_planning.egg-info/PKG-INFO
+[0.932s] writing dependency_links to build/path_planning/path_planning.egg-info/dependency_links.txt
+[0.932s] writing entry points to build/path_planning/path_planning.egg-info/entry_points.txt
+[0.932s] writing requirements to build/path_planning/path_planning.egg-info/requires.txt
+[0.932s] writing top-level names to build/path_planning/path_planning.egg-info/top_level.txt
+[0.932s] writing manifest file 'build/path_planning/path_planning.egg-info/SOURCES.txt'
+[0.934s] reading manifest file 'build/path_planning/path_planning.egg-info/SOURCES.txt'
+[0.934s] adding license file 'LICENSE'
+[0.935s] writing manifest file 'build/path_planning/path_planning.egg-info/SOURCES.txt'
+[0.935s] running build
+[0.935s] running build_py
+[0.935s] creating /home/kermit/oscar_ws/src/path_planning/build/path_planning/build
+[0.935s] creating /home/kermit/oscar_ws/src/path_planning/build/path_planning/build/lib
+[0.935s] creating /home/kermit/oscar_ws/src/path_planning/build/path_planning/build/lib/path_planning
+[0.935s] copying path_planning/path_planning_node.py -> /home/kermit/oscar_ws/src/path_planning/build/path_planning/build/lib/path_planning
+[0.935s] copying path_planning/__init__.py -> /home/kermit/oscar_ws/src/path_planning/build/path_planning/build/lib/path_planning
+[0.935s] copying path_planning/control_node.py -> /home/kermit/oscar_ws/src/path_planning/build/path_planning/build/lib/path_planning
+[0.936s] running install
+[0.936s] running install_lib
+[0.937s] creating /home/kermit/oscar_ws/src/path_planning/install/path_planning/lib/python3.10/site-packages/path_planning
+[0.937s] copying /home/kermit/oscar_ws/src/path_planning/build/path_planning/build/lib/path_planning/path_planning_node.py -> /home/kermit/oscar_ws/src/path_planning/install/path_planning/lib/python3.10/site-packages/path_planning
+[0.937s] copying /home/kermit/oscar_ws/src/path_planning/build/path_planning/build/lib/path_planning/__init__.py -> /home/kermit/oscar_ws/src/path_planning/install/path_planning/lib/python3.10/site-packages/path_planning
+[0.937s] copying /home/kermit/oscar_ws/src/path_planning/build/path_planning/build/lib/path_planning/control_node.py -> /home/kermit/oscar_ws/src/path_planning/install/path_planning/lib/python3.10/site-packages/path_planning
+[0.938s] byte-compiling /home/kermit/oscar_ws/src/path_planning/install/path_planning/lib/python3.10/site-packages/path_planning/path_planning_node.py to path_planning_node.cpython-310.pyc
+[0.939s] byte-compiling /home/kermit/oscar_ws/src/path_planning/install/path_planning/lib/python3.10/site-packages/path_planning/__init__.py to __init__.cpython-310.pyc
+[0.939s] byte-compiling /home/kermit/oscar_ws/src/path_planning/install/path_planning/lib/python3.10/site-packages/path_planning/control_node.py to control_node.cpython-310.pyc
+[0.940s] running install_data
+[0.940s] creating /home/kermit/oscar_ws/src/path_planning/install/path_planning/share/ament_index
+[0.940s] creating /home/kermit/oscar_ws/src/path_planning/install/path_planning/share/ament_index/resource_index
+[0.941s] creating /home/kermit/oscar_ws/src/path_planning/install/path_planning/share/ament_index/resource_index/packages
+[0.941s] copying resource/path_planning -> /home/kermit/oscar_ws/src/path_planning/install/path_planning/share/ament_index/resource_index/packages
+[0.941s] copying package.xml -> /home/kermit/oscar_ws/src/path_planning/install/path_planning/share/path_planning
+[0.941s] running install_egg_info
+[0.942s] Copying build/path_planning/path_planning.egg-info to /home/kermit/oscar_ws/src/path_planning/install/path_planning/lib/python3.10/site-packages/path_planning-0.0.0-py3.10.egg-info
+[0.943s] running install_scripts
+[0.960s] Installing control_node script to /home/kermit/oscar_ws/src/path_planning/install/path_planning/lib/path_planning
+[0.961s] Installing path_planning_node script to /home/kermit/oscar_ws/src/path_planning/install/path_planning/lib/path_planning
+[0.961s] writing list of installed files to '/home/kermit/oscar_ws/src/path_planning/build/path_planning/install.log'
+[0.981s] Invoked command in '/home/kermit/oscar_ws/src/path_planning' returned '0': PYTHONPATH=/home/kermit/oscar_ws/src/path_planning/build/path_planning/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/kermit/oscar_ws/src/path_planning/install/path_planning/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base build/path_planning build --build-base /home/kermit/oscar_ws/src/path_planning/build/path_planning/build install --record /home/kermit/oscar_ws/src/path_planning/build/path_planning/install.log --single-version-externally-managed install_data

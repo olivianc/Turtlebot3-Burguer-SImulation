@@ -1,0 +1,4 @@
+[console_scripts]
+control_node = path_planning.control_node:main
+path_planning_node = path_planning.path_planning_node:main
+
